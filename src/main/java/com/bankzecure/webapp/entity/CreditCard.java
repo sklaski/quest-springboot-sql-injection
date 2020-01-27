@@ -1,7 +1,5 @@
 package com.bankzecure.webapp.entity;
 
-import java.util.*;
-
 public class CreditCard {
 
   private long id;

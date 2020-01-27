@@ -1,7 +1,5 @@
 package com.bankzecure.webapp.entity;
 
-import java.util.Date;
-
 public class Customer {
 
   private long id;
